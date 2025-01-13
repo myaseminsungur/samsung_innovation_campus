@@ -18,7 +18,7 @@ Bu sistem, çeşitli yapısal ve çevresel parametrelere dayalı olarak bina ris
 1. Is there any building reinforcement?/Bina Güçlendirmesi Var Mı? - 20%
 2. Are there any cut(removed) columns?/Kesik Kolon Var Mı? - 20%
 3. Is there a history of fire?/Yangın Geçmişi Var Mı? - 20%
-4. IS there a workplace on the ground floor?/Zeminde İşyeri Var Mı? - 20%
+4. Is there a workplace on the ground floor?/Zeminde İşyeri Var Mı? - 20%
 5. Is the building an illegal structure?/Bina Kaçak Yapı Mı? - 20%
 
 ### Data Collection / Bilgi Toplama
